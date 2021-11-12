@@ -18,3 +18,13 @@
     --off-white: #FAF8F7;
     --just-white: #FFFFFF;
 }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62,5%;
+}
