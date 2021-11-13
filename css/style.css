@@ -263,7 +263,7 @@ main {
     font-family: "Inter", sans-serif;
 }
 
-.comission-table--title {
+.main--comission-table .comission-table--title {
     margin-bottom: 15px;
     font-size: 1.8rem;
     font-weight: bold;
