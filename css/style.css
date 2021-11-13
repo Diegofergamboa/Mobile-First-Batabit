@@ -49,8 +49,19 @@ header img {
     align-self: center;
 }
 
-header h1 {
+.header--title-container h1 {
     color: var(--just-white);
+    font-size: 2.4rem;
+    font-weight: bold;
+    line-height: 2.6rem;
+}
+
+.header--title-container p {
+    margin-top: 25px;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    color: var(--soft-orange);
 }
 
 .header--title-container {
