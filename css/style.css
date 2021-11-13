@@ -93,3 +93,11 @@ header img {
     text-decoration: none;
     color: var(--black);
 }
+
+.header--button span {
+    display: inline-block;
+    width: 13px;
+    height: 8px;
+    margin-left: 10px;
+    background-image: url(/assets/icons/down-arrow.svg);
+}
