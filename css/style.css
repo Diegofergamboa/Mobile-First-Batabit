@@ -208,3 +208,14 @@ main {
     line-height: 1.7rem;
     color: #757575;
 }
+
+.currency-table-container .dowm {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    background-image: url(/assets/icons/trending-down.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
