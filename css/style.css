@@ -140,3 +140,8 @@ main {
     height: 2.6rem;
     color: var(--black);
 }
+
+.main--exchange-container p {
+    margin-bottom: 30px;
+    font-size: 1.4rem;
+}
