@@ -133,3 +133,10 @@ main {
     background-size: cover;
 }
 
+.main--exchange-container h2 {
+    margin-bottom: 30px;
+    font-size: 2.4rem;
+    font-weight: bold;
+    height: 2.6rem;
+    color: var(--black);
+}
