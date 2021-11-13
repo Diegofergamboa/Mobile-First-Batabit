@@ -156,5 +156,14 @@ main {
     max-width: 500px;
     height: 360px;
     margin: 0 auto;
+    font-family: "Inter", sans-serif;
+}
 
+.main--exchange-container .currency-table--title {
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--bitcoin-orange);
+    
 }
