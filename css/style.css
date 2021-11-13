@@ -285,15 +285,15 @@ main {
     background-color: var(--just-white);
 }
 
-.comission-table-container .table__top-left {
+.comission-table-container .table2__top-left {
     border-radius: 15px 0 0 0;
 }
-.comission-table-container .table__top-right {
+.comission-table-container .table2__top-right {
     border-radius: 0 15px 0 0;
 }
-.comission-table-container .table__bottom-left {
+.comission-table-container .table2__bottom-left {
     border-radius: 0 0 0 15px;
 }
-.comission-table-container .table__bottom-right {
+.comission-table-container .table2__bottom-right {
     border-radius: 0 0 15px 0;
 }
