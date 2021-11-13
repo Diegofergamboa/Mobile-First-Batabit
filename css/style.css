@@ -150,6 +150,8 @@ main {
     color: #757575;
 }
 
+/* Primera tabla */
+
 .main--currency-table {
     width: 70%;
     min-width: 235px;
@@ -249,3 +251,5 @@ main {
     font-family: 'Inter';
     font-weight: 300;
 }
+
+/* Segunda tabla */
