@@ -246,4 +246,6 @@ main {
     font-size: 1.2rem;
     line-height: 1.5rem;
     color: var(--warm-black);
+    font-family: 'Inter';
+    font-weight: 300;
 }
