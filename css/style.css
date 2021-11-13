@@ -201,3 +201,10 @@ main {
 .currency-table-container .table__bottom-right {
     border-radius: 0 0 15px 0;
 }
+
+.table__right {
+    font-size: 1.4rem;
+    font-weight: normal;
+    line-height: 1.7rem;
+    color: #757575;
+}
