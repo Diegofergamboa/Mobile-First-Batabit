@@ -196,8 +196,8 @@ main {
     border-radius: 0 15px 0 0;
 }
 .currency-table-container .table__bottom-left {
-    border-radius: 0 0 15px 0;
+    border-radius: 0 0 0 15px;
 }
 .currency-table-container .table__bottom-right {
-    border-radius: 0 0 0 15px;
+    border-radius: 0 0 15px 0;
 }
