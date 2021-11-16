@@ -354,3 +354,8 @@ main {
     font-weight: bold;
     line-height: 2.6rem;
 }
+
+.product-detail--title p {
+    margin-bottom: 20px;
+    
+}
