@@ -338,8 +338,12 @@ main {
     background-image: url("/assets/icons/batata.svg");
 }
 
-.product-detail-title {
+.product-detail--title {
+    margin: 0 auto;
     width: 90%;
+    height: auto;
     min-width: 288px;
+    margin-top: 50px;
+    text-align: center;
     color: var(--just-white);
 }
