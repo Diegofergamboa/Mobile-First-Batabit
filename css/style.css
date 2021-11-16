@@ -317,3 +317,12 @@ main {
     font-family: 'Inter';
     font-weight: 300;
 }
+
+.main-product-detail {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: auto;
+    padding: 20px 10px;
+    background-color: var(--black);
+}
