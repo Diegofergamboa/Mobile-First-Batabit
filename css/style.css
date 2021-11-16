@@ -364,9 +364,24 @@ main {
 }
 
 .product-detail--card {
-    width: 100%;
+    width: 90%;
     min-width: 288px;
     max-width: 400px;
     height: 150px;
     margin: 15px auto;
+    padding: 15px;
+    background-color: var(--black);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);
+}
+
+.product-detail--card .clock {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url("/assets/icons/clock.svg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
