@@ -434,9 +434,20 @@ main {
     background-repeat: no-repeat;
 }
 
-.bitcoin-img-container img {
+main .bitcoin-img-container {
     width: 100%;
     min-width: 320px;
     height: 50vh;
     background-image: url("/assets/img/bitcoinbaby2x.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bitcoin-img-container h2 {
+    margin-bottom: 15px;
+    font-size: 2.4rem;
+    font-weight: bold;
+    line-height: 1.8rem;
+    color: var(--just-white);
 }
