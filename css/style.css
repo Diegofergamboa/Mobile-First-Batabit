@@ -385,3 +385,11 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.product-card--title {
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 1.8rem;
+    color: var(--just-white);
+}
