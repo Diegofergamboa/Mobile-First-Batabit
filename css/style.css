@@ -324,5 +324,5 @@ main {
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    background-color: var(--black);
+    background-color: var(--warm-black);
 }
