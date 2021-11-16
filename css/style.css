@@ -308,6 +308,7 @@ main {
     background-color: var(--soft-blue);
     border-radius: 8px;
     font-weight: 300;
+    /* margin-bottom: 200px; */
 }
 
 .comission-table--date p {
@@ -319,6 +320,7 @@ main {
 }
 
 .main-product-detail {
+    margin-top: 70px;
     position: relative;
     width: 100%;
     min-width: 320px;
@@ -339,5 +341,5 @@ main {
 .main-product-title {
     width: 90%;
     min-width: 288px;
-    
+
 }
