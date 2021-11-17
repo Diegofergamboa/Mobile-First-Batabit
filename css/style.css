@@ -496,7 +496,7 @@ main .bitcoin-img-container {
     min-width: 230px;
     max-width: 300px;
     height: 250px;
-    margin: 50px auto 0;
+    margin: 50px 26px 0;
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 5px;
@@ -581,6 +581,6 @@ main .bitcoin-img-container {
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
-    justify-content: center;
-    gap: 40px;
+    /* justify-content: center;
+    gap: 40px; */
 }
