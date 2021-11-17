@@ -532,7 +532,7 @@ main .bitcoin-img-container {
     letter-spacing: -0.08em;
     color: var(--black);
     margin-top: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     /* justify-content: center; */
 }
 
@@ -547,12 +547,13 @@ main .bitcoin-img-container {
 .plans-container--card .plans-card--saving {
     font-size: 1.2rem;
     color: #757575;
+    margin-bottom: 12px;
 }
 
 .plans-container--card .plans-card--ca {
     width: 150px;
     height: 48px;
-    margin-top: 20px;
+    margin-bottom: 50px;
     height: 48px;
     background-color: #faf8f7;
     border: 2px solid var(--bitcoin-orange);
@@ -563,11 +564,10 @@ main .bitcoin-img-container {
     font-family: 'DM Sans', sans-serif;
 }
 
-.plans-card--ca span {
+.plans-container--card .plans-card--ca span {
     display: inline-block;
     width: 20px;
     height: 20px;
     background-image: url('/assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
-    margin-bottom: 30px
 }
