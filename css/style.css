@@ -453,3 +453,17 @@ main .bitcoin-img-container {
     line-height: 1.8rem;
     color: var(--just-white);
 }
+
+.main-plans-container {
+    width: 100%;
+    min-width: 320px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.plans--title {
+    width: 90%;
+    min-width: 288px;
+    height: auto;
+    margin: 0 auto;
+}
