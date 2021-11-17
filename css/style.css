@@ -513,26 +513,27 @@ main .bitcoin-img-container {
 
 .plans-container--card .plans-card--title {
     padding-top: 30px;
-    font-size: 4rem;
+    font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8rem;
     color: var(--black);
 }
 
-.plans-container--card .plans-card-price {
-    padding-top: 5px 0;;
+.plans-container--card .plans-card--price {
+    padding-top: 10px 0;
     font-size: 5.3rem;
     font-weight: bold;
     line-height: 5.3rem;
     color: var(--black);
+    margin-top: 15px;
 }
 
-.plans-card-price span {
+.plans-container--card .plans-card--price span {
     font-size: 1.2rem;
     font-weight: 300;
 }
 
-.plans-card--saving {
+.plans-container--card .plans-card--saving {
     font-size: 1.2rem;
     color: #757575;
 }
