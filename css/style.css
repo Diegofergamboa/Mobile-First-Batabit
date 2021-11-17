@@ -502,5 +502,7 @@ main .bitcoin-img-container {
     width: 120px;
     height: 31px;
     background-color: var(--bitcoin-orange);
+    border-radius: 8px;
+    color: var(--just-white);
     margin: -10px;
 }
