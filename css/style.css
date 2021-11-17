@@ -168,7 +168,7 @@ main {
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin: 0 auto;
+    margin: auto 13px;
     font-family: "Inter", sans-serif;
 }
 
@@ -270,7 +270,7 @@ main {
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin: 0 auto;
+    margin: auto 13px;
     font-family: "Inter", sans-serif;
 }
 
