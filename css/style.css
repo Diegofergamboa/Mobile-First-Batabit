@@ -150,6 +150,17 @@ main {
     color: #757575;
 }
 
+/* Setup de  tablas */
+
+.main--tables-container {
+    display: flex;
+    height: 400px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    gap: 30px;
+    margin: auto 30px 10px;
+}
 /* Primera tabla */
 
 .main--currency-table {
@@ -282,7 +293,7 @@ main {
     font-weight: 500;
     line-height: 1.9rem;
     color: var(--grey);
-    height: 70px;
+    height: 60px;
     background-color: var(--just-white);
 }
 
