@@ -501,8 +501,33 @@ main .bitcoin-img-container {
     position: absolute;
     width: 120px;
     height: 31px;
+    left: calc(50% - 50px);
+    top: -15px;
+    font-size: 1.2rem;
+    padding: 6px;
     background-color: var(--bitcoin-orange);
     border-radius: 8px;
     color: var(--just-white);
-    margin: -10px;
+    margin: -5px;
+}
+
+.plans-container--card .plans-card--title {
+    padding-top: 30px;
+    font-size: 4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    color: var(--black);
+}
+
+.plans-card-price {
+    padding-top: 5px 0;;
+    font-size: 5.3rem;
+    font-weight: bold;
+    line-height: 6.3rem;
+    color: var(--black);
+}
+
+.plans-card-price span {
+    font-size: 1.2rem;
+    font-weight: 300;
 }
