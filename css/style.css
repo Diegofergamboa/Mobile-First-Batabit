@@ -491,6 +491,7 @@ main .bitcoin-img-container {
 
 .plans-container--card {
     position: relative;
+    scroll-snap-align: center;
     width: 70%;
     min-width: 230px;
     max-width: 300px;
@@ -570,4 +571,16 @@ main .bitcoin-img-container {
     height: 20px;
     background-image: url('/assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
+}
+
+/* Slides */
+
+.plans-container--slider {
+    display: flex;
+    height: 316px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    justify-content: center;
+    gap: 40px;
 }
