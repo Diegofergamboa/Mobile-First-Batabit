@@ -497,3 +497,10 @@ main .bitcoin-img-container {
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
 }
+.plans-container--card .recommended {
+    position: absolute;
+    width: 120px;
+    height: 31px;
+    background-color: var(--bitcoin-orange);
+    margin: -10px;
+}
